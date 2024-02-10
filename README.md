@@ -46,10 +46,11 @@ BookByte is a robust e-commerce application built to provide users with a seamle
 ![Cart](https://github.com/aman9483/BookByte-Ecommerce-Web-Application/assets/118650697/c78420f9-5421-4127-829b-a1d81e2630af)
 *Cart - Manage your book selections before checkout.*
 
-![CheckOut Page](https://github.com/aman9483/BookByte-Ecommerce-Web-Application/assets/118650697/bd19026d-864d-4bac-a57c-ce167f07193e)
+![CheckOut Page](https://github.com/aman9483/BookByte-Ecommerce-Web-Application/assets/118650697/8cbae99b-8035-4699-b6c3-91a9444e7749)
 *  CheckOut Page - CheckOut the Books *
+* 
 
- ![Billing](https://github.com/aman9483/BookByte-Ecommerce-Web-Application/assets/118650697/8cbae99b-8035-4699-b6c3-91a9444e7749)
+ ![Billing]( https://github.com/aman9483/BookByte-Ecommerce-Web-Application/assets/118650697/bd19026d-864d-4bac-a57c-ce167f07193e)
 * Billing - Add Address and Others Details*
 
 ![Payment](https://github.com/aman9483/BookByte-Ecommerce-Web-Application/assets/118650697/d68419a9-661e-4360-8346-83e2b9a0e00c)
@@ -57,7 +58,7 @@ BookByte is a robust e-commerce application built to provide users with a seamle
 ![Make Payment Stripe Stripe](https://github.com/aman9483/BookByte-Ecommerce-Web-Application/assets/118650697/3dccb483-7972-45c8-b907-176e5e61eea4)
 *Payment - Securely process payments with Stripe*
 
-![Success Page](https://github.com/aman9483/BookByte-Ecommerce-Web-Application/assets/118650697/53f131c7-d5b9-416f-977a-249032933653)
+![Success Page](https://github.com/aman9483/BookByte-Ecommerce-Web-Application/assets/118650697/e76664cc-3e45-4120-9189-0962e38592fa)
 *Success Page - Success Page after Payment*
 
 ![Order Page](https://github.com/aman9483/BookByte-Ecommerce-Web-Application/assets/118650697/e4f9c6f7-789b-49f0-af44-9cb77eafdbc9)
