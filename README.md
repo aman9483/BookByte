@@ -117,6 +117,4 @@ Proceed to checkout and securely complete the payment process.
 Payment Integration
 BookByte securely processes payments using Stripe. Ensure you have valid API keys configured in the backend.
 
-Login Details
-Username: amanverma123@gmail.com
-Password: 1234567890
+Thanku 
