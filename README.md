@@ -1,4 +1,6 @@
-# BookByte - E-commerce Book Store
+# BookByte - Full Stack E-commerce Book Store Web App
+
+# Developer - Aman Verma (Full Stack Developer)
 
 Welcome to BookByte, your premier online destination for an unparalleled book shopping experience! Dive into our extensive collection of books and enjoy secure transactions for a hassle-free shopping journey.
 
@@ -6,16 +8,15 @@ Welcome to BookByte, your premier online destination for an unparalleled book sh
 
 - [Overview](#overview)
 - [Features](#features)
+- [Login Details](#login-details)
+- [Payment Details](#login-details)
 - [Screenshots](#screenshots)
 - [Technology Stack](#technology-stack)
 - [Setup](#setup)
 - [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Database Schema](#database-schema)
 - [Payment Integration](#payment-integration)
-- [Login Details](#login-details)
-- [Contributing](#contributing)
-- [License](#license)
+
+
 
 ## Overview
 
@@ -28,6 +29,18 @@ BookByte is a robust e-commerce application built to provide users with a seamle
 - **Responsive Frontend:** Enjoy an intuitive and responsive design.
 - **Efficient Cart Management:** Easily manage selected books before checkout.
 - **Robust Backend:** Ensures seamless server-side operations.
+
+- Login Details
+ Username: amanverma123@gmail.com
+ Password: 1234567890
+
+- Payment Details Choose One (if not Work Chose Second One) ( Only India) Visa
+ Card Number: 4000003560000123
+            : 4000003560000297
+            : 4000003560000248
+            : 4000003560000263
+
+
 
 ## Screenshots
 
@@ -69,16 +82,16 @@ BookByte is a robust e-commerce application built to provide users with a seamle
 
 ## Technology Stack
 
-- **Frontend:** React
-- **Backend:** Express
-- **Database:** MongoDB
-- **Payment Integration:** Stripe
+- Frontend: React
+- Backend: Express
+- Database: MongoDB
+- Payment Integration: Stripe
 
 ## Setup
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/BookByte.git
+   git clone https://github.com/aman9483/BookByte-Ecommerce-Web-Application.git
    cd BookByte
 2. Install dependencies for both frontend and backend:
     cd frontend
