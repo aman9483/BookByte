@@ -31,7 +31,7 @@ BookByte is a robust e-commerce application built to provide users with a seamle
 
 ## Screenshots
 
-![Homepage](/images/homepage.png)
+![Homepage](https://github.com/aman9483/BookByte-Ecommerce-Web-Application/assets/118650697/63b72a9f-ce3f-4b48-97f7-57b3aef5dbd7)
 *Homepage - Explore a vast collection of books.*
 
 ![Cart](/images/cart.png)
