@@ -107,7 +107,7 @@ npm start
 # From the 'frontend' directory
 npm start
 
-Access the application at http://localhost:3000.
+Access the application at https://bookbytes-xl20.onrender.com.
 
 Usage
 Navigate to the homepage to explore the book catalog.
