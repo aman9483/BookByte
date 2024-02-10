@@ -1,0 +1,33 @@
+.filter-search-container {
+  margin: 2rem; 
+  position: relative;
+  left: 10%; 
+}
+
+#filter-select {
+  width: 16rem;
+}
+
+.search-input {
+  position: relative;
+  left: 5%; 
+}
+
+#search-input {
+  width: 16rem;
+  height: 2rem;
+}
+
+
+@media (max-width: 600px) {
+  .filter-search-container {
+    margin: 1rem; 
+    left: 5%;
+  }
+
+  .search-input {
+    left: 0; 
+    position: relative;
+    top: 10px;
+  }
+}

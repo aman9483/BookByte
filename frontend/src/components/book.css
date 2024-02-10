@@ -1,0 +1,53 @@
+.BookCard{
+
+      width: 14vmax;
+      display: flex;
+      flex-direction: column;
+      text-decoration: none;
+      color:  black;
+    
+      margin-left: 200px;
+     
+     
+
+}
+
+.BookCard > img{
+
+    width: 14vmax;
+}
+
+.BookCard > div{
+
+    margin: 0.5vmax;
+    display: flex;
+   justify-content: flex-start;
+
+}
+
+.BookCard > div > span{
+
+   margin: 0.5vmax 0.5vmax;
+   font-family: Comfortaa, cursive;
+   color: tomato;
+
+}
+
+.BookCard > p{
+
+    font-family: Comfortaa, cursive;
+    font-size: 1.2vmax;
+    margin: 1vmax 0.5vmax;
+    margin-bottom: 0;
+
+}
+
+.BookCard > h2{
+
+    font-family: Comfortaa, cursive;
+    font-size: 1.2vmax;
+    margin: 10px;
+    
+
+}
+

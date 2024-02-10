@@ -1,0 +1,129 @@
+#home{
+
+    font-family: Comfortaa, cursive;
+   
+}
+
+#shop{
+
+    font-family: Comfortaa, cursive;
+   
+}
+
+#wish{
+
+    font-family: Comfortaa, cursive;
+    
+}
+
+#cart{
+
+    font-family: Comfortaa, cursive;
+    
+}
+
+#order{
+
+    font-family: Comfortaa, cursive;
+    
+}
+
+#home:hover{
+
+    color: blue;
+    transition: 1s linear ;
+}
+
+#shop:hover{
+
+    color: blue;
+    transition: 1s linear ;
+}
+
+#wish:hover{
+
+    color: blue;
+    transition: 1s linear ;
+}
+
+#order:hover{
+
+    color: blue;
+    transition: 1s linear ;
+}
+
+#cart:hover{
+
+    color: blue;
+    transition: 1s linear ;
+}
+
+#logo{  font-family: Comfortaa, cursive;
+
+  
+
+    font-weight: bold;
+
+    color: #29517c;
+    font-size: 1.5rem;
+}
+
+#logo:hover{
+
+    color: blue;
+    transition: 1s linear ;
+}
+
+.btn{
+
+    background-color: black;
+    color: white;   
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.btn2{
+
+    background-color: blue;
+    color: white;   
+    border-radius: 20px;
+    font-weight: bold;
+   margin: 20px;
+}
+
+.btn:hover{
+
+      background-color: orange;
+      transition: 1s linear;
+      color: black;
+      font-weight: bold;
+}
+
+.btn2:hover{
+
+    background-color: green;
+    transition: 1s linear;
+    color: black;
+    font-weight: bold;
+}
+
+.speedDial {
+    position: fixed;
+    right: 3vmax;
+    top: 3vmax;
+  }
+  
+  
+
+  div {
+    /* Add any necessary styles */
+    color: #333;
+    font-size: 16px;
+  }
+
+
+  .speedDialIcon {
+    width: 40px; 
+    height: 40px; 
+    border-radius: 50%;
+  }

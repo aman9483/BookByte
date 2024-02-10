@@ -1,0 +1,147 @@
+.orderDetailsPage {
+    background-color: white;
+  }
+  
+  .orderDetailsContainer > h1 {
+    font: 500 2.5rem "Roboto", sans-serif;
+    margin: 2rem 0;
+    color: #3498db;
+    text-align: center;
+    transition: color 0.3s;
+  }
+  
+  .orderDetailsContainer:hover > h1 {
+    color: #e74c3c;
+  }
+  
+  .orderDetailsContainer {
+    padding: 2rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    transition: box-shadow 0.3s;
+  }
+  
+  .orderDetailsContainer:hover {
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .orderDetailsContainer > p {
+    font: 400 1.5rem "Roboto", sans-serif;
+    color: #555;
+  }
+  
+  .orderDetailsContainerBox,
+  .orderDetailsCartItemsContainer {
+    margin: 1.5rem;
+  }
+  
+  .orderDetailsContainerBox > div {
+    display: flex;
+    margin: 1.5rem 0;
+    align-items: center;
+    transition: background-color 0.3s;
+  }
+  
+  .orderDetailsContainerBox > div:hover {
+    background-color: #ecf0f1;
+  }
+  
+  .orderDetailsContainerBox > div > p {
+    font: 400 1.2rem "Roboto", sans-serif;
+    color: #333;
+  }
+  
+  .orderDetailsContainerBox > div > span {
+    margin: 0 1rem;
+    font: 300 1.2rem "Roboto", sans-serif;
+    color: #777;
+  }
+  
+  .orderDetailsCartItems > p {
+    font: 500 1.5rem "Roboto", sans-serif;
+    margin-top: 2rem;
+  }
+  
+  .orderDetailsCartItems {
+    padding: 2rem;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+  }
+  
+  .orderDetailsCartItemsContainer > div {
+    display: flex;
+    font: 400 1.2rem "Roboto", sans-serif;
+    align-items: center;
+    margin: 1rem 0;
+    transition: background-color 0.3s;
+  }
+  
+  .orderDetailsCartItemsContainer > div:hover {
+    background-color: #ecf0f1;
+  }
+  
+  .orderDetailsCartItemsContainer > div > img {
+    width: 3rem;
+    margin-right: 1rem;
+  }
+  
+  .orderDetailsCartItemsContainer > div > a {
+    color: #3498db;
+    margin-right: auto;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .orderDetailsCartItemsContainer > div > a:hover {
+    color: #e74c3c;
+  }
+  
+  .orderDetailsCartItemsContainer > div > span {
+    font: 300 1.2rem "Roboto", sans-serif;
+    color: #888;
+  }
+  
+  @media screen and (max-width: 600px) {
+    .orderDetailsContainer > p {
+      font: 400 1.4rem "Roboto", sans-serif;
+    }
+  
+    .orderDetailsContainerBox > div {
+      margin: 1.2rem 0;
+    }
+  
+    .orderDetailsContainerBox > div > p {
+      font: 400 1rem "Roboto", sans-serif;
+    }
+  
+    .orderDetailsContainerBox > div > span {
+      font: 300 1rem "Roboto", sans-serif;
+    }
+  
+    .orderDetailsCartItems > p {
+      font: 500 1.4rem "Roboto", sans-serif;
+      margin-top: 1.5rem;
+    }
+  
+    .orderDetailsCartItems {
+      padding: 1.5rem;
+    }
+  
+    .orderDetailsCartItemsContainer > div {
+      font: 400 1rem "Roboto", sans-serif;
+      margin: 1rem 0;
+    }
+  
+    .orderDetailsCartItemsContainer > div > img {
+      width: 2.5rem;
+    }
+  
+    .orderDetailsCartItemsContainer > div > a {
+      margin-right: auto;
+      width: 40%;
+    }
+  
+    .orderDetailsCartItemsContainer > div > span {
+      font: 300 1rem "Roboto", sans-serif;
+    }
+  }
+  

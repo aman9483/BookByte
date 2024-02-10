@@ -1,0 +1,166 @@
+.wrapper
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -300px;
+    margin-top: 60px;
+   margin-bottom: 100px;
+
+
+}
+
+
+.fiction{
+
+    margin-left: 300px;
+    background-color: #0e7490;
+    width: 10rem;
+    height: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.thriller{
+
+    margin-left: 100px;
+    background-color: #0e7490;
+    width: 10rem;
+    height: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.romance{
+
+    margin-left: 100px;
+    background-color: #0e7490;
+    width: 10rem;
+    height: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tech{
+
+    margin-left: 100px;
+    background-color: #0e7490;
+    width: 10rem;
+    height: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.philosphy{
+
+    margin-left: 100px;
+    background-color: #0e7490;
+    width: 10rem;
+    height: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.manga{
+
+    margin-left: 100px;
+    background-color: #0e7490;
+    width: 10rem;
+    height: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h3{
+
+    color: white;
+    font-weight: bold;
+    font-size: 1.5rem;
+    font-family: Comfortaa, cursive;
+}
+
+h1{
+
+    color: black;
+    font-weight: bold;
+    font-size: 3rem;
+    font-family: Comfortaa, cursive;
+    color: #0e7490;
+   
+   
+}
+
+.logo{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+   
+   
+}
+
+.fiction:hover{
+
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+    transform: scale(1.05);
+    background-color: orange;
+    transition: 1s linear;
+}
+
+.manga:hover{
+
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+    transform: scale(1.05);
+    background-color: orange;
+    transition: 1s linear;
+}
+
+.thriller:hover{
+
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+    transform: scale(1.05);
+    background-color: orange;
+    transition: 1s linear;
+}
+
+
+.philosphy:hover{
+
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+    transform: scale(1.05);
+    background-color: orange;
+    transition: 1s linear;
+}
+
+.tech:hover{
+
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+    transform: scale(1.05);
+    background-color: orange;
+    transition: 1s linear;
+}
+
+.romance:hover{
+
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+    transform: scale(1.05);
+    background-color: orange;
+    transition: 1s linear;
+}
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+ 
+  
+

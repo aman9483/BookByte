@@ -1,0 +1,27 @@
+.dark-light-toggle-container .dark-light-toggle .fa-moon{
+  font-size: 24px;
+  color: #eaf4fc;
+}
+
+.dark-light-toggle-container .dark-light-toggle .fa-sun{
+  font-size: 24px;
+  color: #CC7A00;
+}
+
+.dark-light-toggle-container{
+  margin-left: 80%;
+  margin-top: 40px;
+  position: fixed;
+}
+
+.dark-light-toggle-container .dark-light-toggle{
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 50%;
+  transition: 1s;
+  border: none;
+}
+
+.dark-light-toggle-container .dark-light-toggle:hover{
+  transform: rotate(360deg);
+}

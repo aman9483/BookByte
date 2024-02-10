@@ -1,0 +1,104 @@
+/* BookDetails.css */
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    min-height: 100vh;
+  }
+  
+  .book-details-container {
+    max-width: 1200px;
+    margin: auto;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    animation: fadeIn 0.5s ease-in-out;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .book-images-container {
+    overflow: hidden;
+  }
+  
+  .book-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 15px 15px 0 0;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .book-image:hover {
+    transform: scale(1.1);
+  }
+  
+  .book-details-paper {
+    padding: 20px;
+  }
+  
+  .book-details-paper h4 {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .book-details-paper h6 {
+    margin-top: 10px;
+    color: #555;
+  }
+  
+  .book-details-paper p {
+    margin-bottom: 20px;
+    color: #777;
+  }
+  
+  .quantity-controls {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .quantity-display {
+    margin: 0 10px;
+    font-size: 18px;
+    color: #555;
+  }
+  
+  .add-to-cart-button {
+    margin-top: 20px;
+    background-color: #e74c3c;
+    color: #fff;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 0 0 15px 15px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .add-to-cart-button:hover {
+    background-color: #c0392b;
+  }
+  
+  @media (min-width: 768px) {
+    .book-details-container {
+      display: flex;
+    }
+  
+    .book-images-container,
+    .book-details-paper {
+      flex: 1;
+    }
+  }
+  

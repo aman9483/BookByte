@@ -1,0 +1,53 @@
+#Book{
+
+    width: 100vw;
+    height: 100vh;
+}
+
+
+
+.topBookContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 150px;
+   
+    margin-bottom: 100px;
+   
+  }
+  
+  .home-container {
+    position: relative;
+  }
+  
+  .overlay-container {
+    position: absolute;
+    top: 2400px;
+    left: 1030px;
+    transform: translate(-50%, -50%);
+  
+  }
+  
+  .explore-button {
+    font-size: 1.5rem;
+    width: 30rem;
+    height: 3rem;
+    background-color: orange;
+    margin: 20px;
+  }
+
+  .explore-button:hover {
+    
+     background-color: green;
+  }
+
+
+  .featured-books-heading {
+    text-align: center;
+    margin-top: -20px; 
+    font-weight: bold;
+    font-size: 1.5rem;
+    font-family: Comfortaa, cursive;
+    color: #0e7490;
+  }
+  
+  
