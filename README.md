@@ -49,6 +49,9 @@ BookByte is a robust e-commerce application built to provide users with a seamle
  ![Billing](https://github.com/aman9483/BookByte-Ecommerce-Web-Application/assets/118650697/8cbae99b-8035-4699-b6c3-91a9444e7749)
 * Billing - Add Address and Others Details*
 
+  ![](https://github.com/aman9483/BookByte-Ecommerce-Web-Application/assets/118650697/d68419a9-661e-4360-8346-83e2b9a0e00c)
+*Payment - Securely process payments with Stripe.*
+
 ![Payment](https://github.com/aman9483/BookByte-Ecommerce-Web-Application/assets/118650697/d68419a9-661e-4360-8346-83e2b9a0e00c)
 *Payment - Securely process payments with Stripe.*
 
